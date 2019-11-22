@@ -1,0 +1,10 @@
+C:\Users\user01\Desktop\Ярик и Игорь\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\user01\Desktop\Ярик и Игорь\Lab13\bin\Debug\Lab13.mdb
+C:\Users\user01\Desktop\Ярик и Игорь\Lab13\bin\Debug\Lab13.exe
+C:\Users\user01\Desktop\Ярик и Игорь\Lab13\bin\Debug\Lab13.pdb
+C:\Users\user01\Desktop\Ярик и Игорь\Lab13\obj\Debug\Lab13.csprojResolveAssemblyReference.cache
+C:\Users\user01\Desktop\Ярик и Игорь\Lab13\obj\Debug\Lab13.Form1.resources
+C:\Users\user01\Desktop\Ярик и Игорь\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\user01\Desktop\Ярик и Игорь\Lab13\obj\Debug\Lab13.csproj.GenerateResource.Cache
+C:\Users\user01\Desktop\Ярик и Игорь\Lab13\obj\Debug\Lab13.exe
+C:\Users\user01\Desktop\Ярик и Игорь\Lab13\obj\Debug\Lab13.pdb
